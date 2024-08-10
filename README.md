@@ -13,10 +13,17 @@ Jim has a budget of $500,000 for the project, but he lacks IT experience to buil
 
 ## Project Detail
 * Stakeholder interview
+
   Through an interview with Jim, we gained a better understanding of the business and gathered requirements which we later used to define scopes of the project.
-  Somw of the questions asked during the initial stakeholder interview includes
+
+  Some of the questions asked during the initial stakeholder interview includes
+
   ** What are you trying to achieve by building Chess Giants?
+
   ** What do you think is missing in the current online Chess marketplace that will drive users to your site?
+
   ** How do you envision your players using your website? What can players do and cannot do?
+
   ** How much budget do we have to build this system?
+
   ** How does your schedule look like for us to go over the document of the process?
