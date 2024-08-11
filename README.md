@@ -11,7 +11,7 @@ The site will enable members to:
 * Post and discuss game strategies and results, with moderation by administrator for content management.
 
 ## Project Detail
-* Stakeholder interview
+* Stakeholder interview and Requirement Gathering
 
   Through an interview with Jim, we gained a better understanding of the business and gathered requirements which we later used to define scopes of the project.
 
@@ -27,7 +27,7 @@ The site will enable members to:
 
 * Requirement Gathering
 
-  Through the stakeholder interview, we gathered information about which later we would translate these business needs into project's scopes and defined functional and non-functional requirements.
+  Next, we would translate these business needs into project's scopes and defined functional and non-functional requirements.
 
 * Designs:
   ** Activity Diagram,
