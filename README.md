@@ -53,4 +53,4 @@ The site will enable members to:
     * This Logical Data Model represents the organization's data and shows the relationships between different entities in the identified Functional Areas.
 
   * Wireframes
-    * Taking the Activity Diagrams above, we designed the Wireframes on Microsoft Visio. The Wireframes visualize the steps taken by player in searching and challenge players, and when the player wants to post a thread orpost comments on an existing thread on the Forum. Additionlly, we provide the Use Case statements for each case that show how the system responds to actions taken by users.
+    * Taking the Activity Diagrams above, we designed the Wireframes on Microsoft Visio. The Wireframes visualize the steps taken by player in searching and challenge players, and when the player wants to post a thread orpost comments on an existing thread on the Forum. Additionally, we provide the Use Case statements for each case that show how the system responds to actions taken by users.
