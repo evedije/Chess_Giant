@@ -20,10 +20,16 @@ Jim has a budget of $500,000 for the project, but he lacks IT experience to buil
 
   ** What are you trying to achieve by building Chess Giants?
 
-  ** What do you think is missing in the current online Chess marketplace that will drive users to your site?
-
   ** How do you envision your players using your website? What can players do and cannot do?
 
   ** How much budget do we have to build this system?
 
   ** How does your schedule look like for us to go over the document of the process?
+
+* Requirement Gathering
+
+  Through the stakeholder interview, we gathered information about which later we would translate these business needs into project's scopes and defined functional and non-functional requirements.
+
+* Designs:
+  ** Activity Diagram,
+  ** Data Model, and Wireframes
