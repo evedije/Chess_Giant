@@ -40,7 +40,8 @@ The site will enable members to:
 
 ### Designs: 
 * Activity Diagram
-    The Activity Diagram provides a visulization on how activities flow from one onto the next, including how the system responds to prompts given by the player on the site. There are 2 Activity Diagrams designed on this project. 
+
+  The Activity Diagram provides a visulization on how activities flow from one onto the next, including how the system responds to prompts given by the player on the site. There are 2 Activity Diagrams designed on this project. 
     * The first Activity Diagram showcases step by step journey a player takes to search and challenge other players on the site. 
     * The second Activity Diagram shows the steps when a player posts their game on the forum.
     
