@@ -27,8 +27,19 @@ The site will enable members to:
 
 * Requirement Gathering
 
-  Next, we would translate these business needs into project's scopes and defined functional and non-functional requirements.
+  Next, we would translate these business needs into project's scopes and defined functional and non-functional requirements and generate the Business Requirement Document (BRD).
+
+* Define Functional Areas
+  There are 5 Functional Areas highlighted in this project which are Registration, Payment, Game, Admin and Forum.
+  
+  ** Registration: processes player sign-up, email verfication, player rank verification, and account establishment.
+  ** Payment: processes payment and sends payment confirmation email.
+  ** Game: covers game related processes on the site, including search for and challenge players, the actual game played, and save player's record of winning or losing the games.
+  ** Admin: manages Membership application and its approval as well as review contents posted/uploaded by members and remove unappropriate contents.
+  ** Forum: Forum allows players to create and publish a thread/post, and post comments on selected post.
 
 * Designs:
-  ** Activity Diagram,
+  ** Activity Diagram
+    
+  
   ** Data Model, and Wireframes
