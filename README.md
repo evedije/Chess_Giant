@@ -25,11 +25,11 @@ The site will enable members to:
 
   ** How does your schedule look like for us to go over the document of the process?
 
-* Requirement Gathering
+### Requirement Gathering
 
   Next, we would translate these business needs into project's scopes and defined functional and non-functional requirements and generate the Business Requirement Document (BRD).
 
-* Define Functional Areas
+### Identify Functional Areas and Build Decomposition Diagram
   There are 5 Functional Areas highlighted in this project which are Registration, Payment, Game, Admin and Forum.
   
   ** Registration: processes player sign-up, email verfication, player rank verification, and account establishment.
@@ -38,8 +38,7 @@ The site will enable members to:
   ** Admin: manages Membership application and its approval as well as review contents posted/uploaded by members and remove unappropriate contents.
   ** Forum: Forum allows players to create and publish a thread/post, and post comments on selected post.
 
-* Designs:
-  ** Activity Diagram
+### Designs: 
+** Activity Diagram
     
-  
-  ** Data Model, and Wireframes
+** Data Model, and Wireframes
