@@ -16,14 +16,10 @@ The site will enable members to:
   Through an interview with Jim, we dive deeper into understanding the business and gather requirements, which we later used to define the project's scope.
 
   Some of the questions asked during the initial stakeholder interview includes
-
-  ** What are you trying to achieve by building Chess Giants?
- 
- ** How do you envision your players using your website? What can players do and cannot do?
- 
- ** How much of a budget do we have to build this system?
- 
- ** What does your schedule look like for us to review the process document?
+  * What are you trying to achieve by building Chess Giants?
+  * How do you envision your players using your website? What can players do and cannot do?
+  * How much of a budget do we have to build this system?
+  * What does your schedule look like for us to review the process document?
 
 ### Requirement Gathering
 
@@ -48,8 +44,7 @@ The site will enable members to:
 * Data Model and Wireframes
 
   * Data Model:
-    * We use the Crows's Foot ER Diagram for the Game and Forum Functional Areas.
- * This Logical Data Model represents the organization's data and shows the relationships between different entities in the identified Functional Areas.
+    * We use the Crows's Foot ER Diagram for the Game and Forum Functional Areas. This Logical Data Model represents the organization's data and shows the relationships between different entities in the identified Functional Areas.
 
 
   * Wireframes
